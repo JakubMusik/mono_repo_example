@@ -1,10 +1,10 @@
 {
   "name": "sw_app",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "private": true,
   "dependencies": {
-    "@jakubmusik/library": "^1.0.2",
-    "@jakubmusik/localization": "^1.0.2",
+    "@jakubmusik/library": "^2.0.0",
+    "@jakubmusik/localization": "^2.0.0",
     "classnames": "^2.2.6",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
